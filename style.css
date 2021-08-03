@@ -1,0 +1,117 @@
+#aa1{
+text-align:center;
+color:white;
+padding:13px;
+background-color: blue;
+font-style: Bold;
+font-size: 38px;
+margin: :0px;
+}
+#a1
+{
+	background-color: black;
+	color: white;
+	padding: 20px;
+	font-size: 20px;
+	margin-top: 9px;
+  
+}
+*{
+	padding: 0px;
+	margin: 0px;
+}
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 25%;
+  background: #f1f1f1;
+  margin-top: 20px;
+  margin-left: 550px;
+}
+
+form.example button {
+  float: left;
+  width: 10%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+#bb
+{
+	flex: block;
+	font-size: 260%;
+	background-color: powderblue;
+	margin-left:0px;
+	align: left;
+}
+li{
+
+  font-size: 40px;
+  display: inline-block;
+  padding: 10px;
+  list-style-type:none;
+ padding: 0px;
+}
+
+#aa11
+{
+  margin-left: 320px;
+    background-color: powderblue;
+
+}
+#aa22
+{
+  margin-left: 320px;
+    background-color: powderblue;
+
+}
+#aa33
+{
+  margin-left: 270px;
+  color: white;
+  background-color: powderblue;
+}
+#a4
+{
+  margin-left: 276px;
+   background-color: powderblue;
+}
+#a5
+{
+  margin-left: 215px;
+   background-color: powderblue;
+}
+#a6
+{
+  margin-left: 200px;
+   background-color: powderblue;
+}
+footer
+{
+   padding: 100px;
+  background-color: black ;
+  margin-top: 50px;
+}
+#h11
+{
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
